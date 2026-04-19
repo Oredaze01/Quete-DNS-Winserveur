@@ -7,7 +7,7 @@
 
 Config IP de la carte réseau avec le serveur DNS entré manuellement
 
-![[Pasted image 20260419174245.png]](
+![[Pasted image 20260419174245.png]](Ressources/Config-DNSserver-1.png)
 
 
 Zone directe du serveur
