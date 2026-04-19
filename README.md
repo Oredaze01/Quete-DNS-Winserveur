@@ -12,12 +12,12 @@ Config IP de la carte réseau avec le serveur DNS entré manuellement
 
 Zone directe du serveur
 
-![[Pasted image 20260419174521.png]](
+![[Pasted image 20260419174521.png]](Ressources/Config-DNSserver-2.png)
 
 
 ### 2. Configuration de la zone indirecte
 
-![[Pasted image 20260419174732.png]](
+![[Pasted image 20260419174732.png]](Ressources/Config-DNSserver-3.png)
 
 
 ### 3. Ping depuis le client Ubuntu vers les 2 noms DNS du serveur
@@ -27,7 +27,7 @@ avec
 ping server-dns.wilder.lan
 `````
 
-![[Pasted image 20260419183910.png]](
+![[Pasted image 20260419183910.png]](Ressources/Config-DNSserver-4.png)
 
 
 Puis 
@@ -39,7 +39,7 @@ ping alias.wilders.lan
 
 
 
-![[Pasted image 20260419185105.png]](
+![[Pasted image 20260419185105.png]](Ressources/Config-DNSserver-5.png)
 
 
 
@@ -51,5 +51,5 @@ nslookup server-dns.wilders.lan
 
 
 
-![[Pasted image 20260419185539.png]](
+![[Pasted image 20260419185539.png]](Ressources/Config-DNSserver-6.png)
 
