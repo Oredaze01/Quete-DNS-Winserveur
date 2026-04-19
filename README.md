@@ -15,7 +15,7 @@ Zone directe du serveur
 ![[Pasted image 20260419174521.png]](
 
 
-2. Configuration de la zone indirecte
+### 2. Configuration de la zone indirecte
 
 ![[Pasted image 20260419174732.png]](
 
